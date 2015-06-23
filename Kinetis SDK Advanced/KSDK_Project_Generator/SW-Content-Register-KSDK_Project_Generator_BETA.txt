@@ -1,0 +1,29 @@
+Release Name: KSDK_Project_Generator     Version: BETA
+Package - KSDK_Project_Generator
+
+Release Name: KSDK_Project_Generator.exe
+Version: BETA
+KSDK Project Generator         Description: KSDK Project Generator tool binary for windows
+                                               Author: Freescale
+                                               License: Proprietary. See 
+                                               LA_OPT_HOST_TOOL 
+                                               Format: binary
+                                               Location: KSDK_Project_Generator/Windows/KSDK_Project_Generator.exe
+
+Release Name: KSDK_Project_Generator
+Version: BETA
+KSDK Project Generator         Description: KSDK Project Generator tool binary for linux
+                                               Author: Freescale
+                                               License: Proprietary. See 
+                                               LA_OPT_HOST_TOOL 
+                                               Format: binary
+                                               Location: KSDK_Project_Generator/Linux/KSDK_Project_Generator
+
+Release Name: KSDK_Project_Generator.app
+Version: BETA
+KSDK Project Generator         Description: KSDK Project Generator tool binary for Mac OSX
+                                               Author: Freescale
+                                               License: Proprietary. See 
+                                               LA_OPT_HOST_TOOL 
+                                               Format: binary
+                                               Location: KSDK_Project_Generator/Mac_OSX/KSDK_Project_Generator.app
